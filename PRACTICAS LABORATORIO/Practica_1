@@ -42,7 +42,7 @@ Lo primero, tienes que tener en cuenta que todas las modificaciones que realizes
 
 Vamos a hacer la primera prueba, vamos a modificar este mismo archivo añadiendo en el siguiente espacio la frase :"HOLA MUNDO"
 
-Escribe tu frase: "---- -----"
+Escribe tu frase: "HOLA MUNDO"
 
 Una vez escribas la frase, verás que aparece un indicador en el editor y una anotación de "1 unsaved", ya que hemos modificado el archivo en la zona de edición, pero no hemos añadido este cambio al archivo local, por tanto, le daremos a guardar (importante verificar que ya no hay más cambios que guardar) y deberás seguir la siguiente secuencia de comandos en la terminal:
 
